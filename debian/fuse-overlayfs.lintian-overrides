@@ -1,0 +1,5 @@
+fuse-overlayfs: copyright-without-copyright-notice
+fuse-overlayfs: empty-binary-package
+fuse-overlayfs: initial-upload-closes-no-bugs
+fuse-overlayfs: no-manual-page
+fuse-overlayfs: zero-byte-file-in-doc-directory
